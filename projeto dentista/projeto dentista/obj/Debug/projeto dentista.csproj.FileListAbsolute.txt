@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\bin\Debug\projeto dentista.exe.config
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\bin\Debug\projeto dentista.exe
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\bin\Debug\projeto dentista.pdb
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto dentista.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto_dentista.FrmDentista.resources
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto_dentista.FrmPaciente.resources
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto_dentista.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto dentista.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto dentista.exe
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto dentista.pdb
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto_dentista.FrmConsulta.resources
+C:\Users\Aluno\Desktop\Visual Studio\projeto dentista\projeto dentista\obj\Debug\projeto_dentista.MenuDentibao.resources
